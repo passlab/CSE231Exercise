@@ -93,6 +93,12 @@ public class ArrayStringLog implements StringLogInterface
     return (lastIndex + 1);
   }
   
+    public int howMany(String element){
+        return 0;
+        
+    }
+
+  
   public boolean contains(String element)
   // Returns true if element is in this StringLog,
   // otherwise returns false.

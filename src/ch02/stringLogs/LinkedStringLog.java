@@ -70,6 +70,23 @@ public class LinkedStringLog implements StringLogInterface
    return false;
   }
   
+  public int howMany(String element)
+  // Returns true if element is in this StringLog,
+  // otherwise returns false.
+  // Ignores case difference when doing string comparison.
+  {                 
+    LLStringNode node;
+    node = log;
+    int count = 0;
+
+    while (node != null) 
+    {
+      if (element.equalsIgnoreCase(node.getInfo()))  count ++;
+        node = node.getLink();
+    }
+   return count;
+  }
+  
   public void clear()
   // Makes this StringLog empty.
   { 

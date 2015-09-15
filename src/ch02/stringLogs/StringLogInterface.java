@@ -35,4 +35,6 @@ public interface StringLogInterface
 
   String toString();
   // Returns a nicely formatted string representing this StringLog.
+  
+  int howMany(String element);
 }
