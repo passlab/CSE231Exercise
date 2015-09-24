@@ -64,91 +64,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinkedStringLog.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java">
+      <file leaf-file-name="Towers2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/Towers2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="3" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.0" vertical-offset="904" max-vertical-offset="1725">
+            <state line="10" column="13" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+              <folding>
+                <element signature="e#0#1599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseStack3.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch04/UseStack3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="40" selection-start="416" selection-end="416" vertical-scroll-proportion="0.3051643" vertical-offset="0" max-vertical-offset="639">
+              <folding>
+                <element signature="e#0#589#0" expanded="true" />
+                <element signature="e#428#436#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TraceFactorial.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/TraceFactorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackOverflowException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/StackOverflowException.java">
+      <file leaf-file-name="tryComb.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/tryComb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackUnderflowException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/StackUnderflowException.java">
+      <file leaf-file-name="UseStack2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="6" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <folding>
+                <element signature="e#0#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Towers.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/Towers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostFixException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/postfix/PostFixException.java">
+      <file leaf-file-name="Grid.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="7" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
+              <folding>
+                <element signature="e#0#3547#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kids.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/Kids.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="13" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostFixEvaluator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/postfix/PostFixEvaluator.java">
+      <file leaf-file-name="LinkedStack2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+            <state line="9" column="13" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Balanced.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/Balanced.java">
+      <file leaf-file-name="LinkedStack3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1455">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BalancedApp.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch03/BalancedApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="425" selection-end="425" vertical-scroll-proportion="0.33333334" vertical-offset="26" max-vertical-offset="855">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedStack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="14" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListStack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/ArrayListStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoundedStackInterface.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/BoundedStackInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="9" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -181,7 +190,6 @@
         <option value="$PROJECT_DIR$/src/ch03/ReverseStrings2.java" />
         <option value="$USER_HOME$/CSE231Project/src/secs/cse231/project/vfolder/DLLNode.java" />
         <option value="$USER_HOME$/CSE231Project/src/secs/cse231/project/util/DLLNode.java" />
-        <option value="$PROJECT_DIR$/src/ch04/Towers2.java" />
         <option value="$PROJECT_DIR$/src/ch02/Test034.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/GetTriviaGame.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaConsole.java" />
@@ -190,13 +198,25 @@
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaGUI.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaQuestion.java" />
         <option value="$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java" />
+        <option value="$PROJECT_DIR$/src/ch04/BlobApp.java" />
+        <option value="$PROJECT_DIR$/src/ch04/Factorial2.java" />
+        <option value="$PROJECT_DIR$/src/ch04/Grid.java" />
+        <option value="$PROJECT_DIR$/src/ch04/Kids.java" />
+        <option value="$PROJECT_DIR$/src/ch04/LinkedStack2.java" />
+        <option value="$PROJECT_DIR$/src/ch04/LinkedStack3.java" />
+        <option value="$PROJECT_DIR$/src/ch04/Towers.java" />
+        <option value="$PROJECT_DIR$/src/ch04/Towers2.java" />
+        <option value="$PROJECT_DIR$/src/ch04/TraceFactorial.java" />
+        <option value="$PROJECT_DIR$/src/ch04/tryComb.java" />
+        <option value="$PROJECT_DIR$/src/ch04/UseStack2.java" />
+        <option value="$PROJECT_DIR$/src/ch04/UseStack3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="958" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -224,8 +244,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -276,7 +294,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch03" />
+              <option name="myItemId" value="ch04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,10 +313,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ch03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stacks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -384,6 +398,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,6 +504,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -499,14 +523,6 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -573,19 +589,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -619,6 +622,19 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="5">
@@ -670,7 +686,7 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="958" extended-state="6" />
+    <frame x="0" y="22" width="1680" height="808" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -684,18 +700,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289855" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3937729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3892857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3986569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38818076" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -718,9 +734,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3797314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15240328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15240328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -744,6 +760,41 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch03/Balanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/BalancedApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/stacks/ArrayListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/stacks/BoundedStackInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch01/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1365">
@@ -807,9 +858,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/game.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="790">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="790" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/ArrayStringLog.java">
@@ -821,63 +870,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/GetTriviaGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="467" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
-          <folding>
-            <element signature="e#0#1919#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="9" column="13" selection-start="467" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/TriviaConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1065">
-          <folding>
-            <element signature="e#0#2022#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1065" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/TriviaGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
-          <folding>
-            <element signature="e#0#2859#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="7" column="13" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/TriviaQuestion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <folding>
-            <element signature="e#0#1118#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="6" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/TriviaGameGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="28" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="2675" max-vertical-offset="3465">
-          <folding />
-        </state>
+        <state line="40" column="28" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="2675" max-vertical-offset="3465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/TriviaGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding>
-            <element signature="e#0#765#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="16" column="36" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/trivia/trivia2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="813">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="813" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/FigureGeometry.java">
@@ -917,20 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/LLStringNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="3" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.0" vertical-offset="904" max-vertical-offset="1725">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch03/stacks/StackOverflowException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
@@ -966,20 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch03/postfix/PostFixEvaluator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch03/Balanced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="14" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
@@ -987,10 +982,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/postfix/PostFixEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch03/BalancedApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="425" selection-end="425" vertical-scroll-proportion="0.33333334" vertical-offset="26" max-vertical-offset="855">
+        <state line="12" column="13" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="855">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/LLStringNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="326" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="360" selection-end="375" vertical-scroll-proportion="-0.9594384" vertical-offset="675" max-vertical-offset="1725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Balanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/BlobApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="349" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding>
+            <element signature="e#0#1216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/Factorial2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
+          <folding>
+            <element signature="e#0#3547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/Kids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/Towers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/TraceFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/tryComb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding>
+            <element signature="e#0#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/Towers2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <folding>
+            <element signature="e#0#1599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="416" selection-end="416" vertical-scroll-proportion="0.3051643" vertical-offset="0" max-vertical-offset="639">
+          <folding>
+            <element signature="e#0#589#0" expanded="true" />
+            <element signature="e#428#436#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
