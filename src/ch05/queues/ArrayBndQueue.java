@@ -70,4 +70,36 @@ public class ArrayBndQueue<T> implements BoundedQueueInterface<T>
   {              
     return (numElements == queue.length);
   }
+  
+  public String toString() {
+      
+      int cur = front;
+      String outp = "";
+      if (isEmpty()) return "";
+  
+      
+      for (int i=0; i<numElements; i++) {
+          outp += queue[cur].toString() + "\n";
+          cur = (cur+1) % queue.length;
+      }
+      
+       for (int i=0; i<numElements; i++) {
+           // dequeue
+           // enqueue
+       }
+      
+      return outp;
+  }
+  
+  /* test the toString method */
+  public static void main(String[] args) {
+      ArrayBndQueue<String> stringQueue = new ArrayBndQueue<String>();
+      stringQueue.enqueue("A");
+      stringQueue.enqueue("B");
+
+      stringQueue.enqueue("C");
+
+      System.out.println(stringQueue.toString());
+      
+  }
 }

@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// LinkedUnbndQueue.java         by Dale/Joyce/Weems                Chapter 5
+// CircularLinkedUnbndQueue.java         by OU SECS                Chapter 5
 //
 // Implements UnboundedQueueInterface using a linked list
 //---------------------------------------------------------------------------
@@ -8,12 +8,12 @@ package ch05.queues;
 
 import support.LLNode;
 
-public class LinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
+public class CircularLinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
 {
   protected LLNode<T> front;   // reference to the front of this queue
   protected LLNode<T> rear;    // reference to the rear of this queue
 
-  public LinkedUnbndQueue()
+  public CircularLinkedUnbndQueue()
   {
     front = null;
     rear = null;
@@ -63,7 +63,7 @@ public class LinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
 
     /* test the toString method */
     public static void main(String[] args) {
-        LinkedUnbndQueue<String> stringQueue = new LinkedUnbndQueue<String>();
+        CircularLinkedUnbndQueue<String> stringQueue = new CircularLinkedUnbndQueue<String>();
         stringQueue.enqueue("A");
         stringQueue.enqueue("B");
 
