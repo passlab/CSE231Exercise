@@ -10,24 +10,37 @@ import support.LLNode;
 
 public class CircularLinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
 {
-  protected LLNode<T> front;   // reference to the front of this queue
   protected LLNode<T> rear;    // reference to the rear of this queue
 
   public CircularLinkedUnbndQueue()
   {
-    front = null;
     rear = null;
   }
 
   public void enqueue(T element)
   // Adds element to the rear of this queue.
   { 
-    LLNode<T> newNode = new LLNode<T>(element);
-    if (rear == null)
-      front = newNode;
-    else
-      rear.setLink(newNode);
-    rear = newNode;
+      
+    if (rear == null) { /* empty queue */
+        /* step 1 */
+        LLNode<T> newNode = new LLNode<T>(element);
+        newNode.setLink(newNode);
+        
+        /* ignore step 2 */
+        
+        /* step 3 */
+        rear = newNode;
+    } else { /* non-empty queue */
+        /* step 1: create new object and let it link to the current front */  
+        LLNode<T> newNode = new LLNode<T>(element);
+        newNode.setLink(rear.getLink());
+    
+        /* step 2: let the current rear node point to the new node*/
+        rear.setLink(newNode);
+    
+        /* step 3: update the rear reference of the queue */
+        rear = newNode;
+    }
   }     
 
   public T dequeue()
@@ -38,20 +51,23 @@ public class CircularLinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
       throw new QueueUnderflowException("Dequeue attempted on empty queue.");
     else
     {
-      T element;
-      element = front.getInfo();
-      front = front.getLink();
-      if (front == null)
-        rear = null;
-
+      T element = null;
       return element;
     }
+  }
+  
+  public T front() {
+  // Throws QueueUnderflowException if this queue is empty;
+  // otherwise, return front element from this queue.
+      
+      return null;
+      
   }
 
   public boolean isEmpty()
   // Returns true if this queue is empty; otherwise, returns false.
   {              
-    if (front == null) 
+    if (rear == null) 
       return true;
     else
       return false;

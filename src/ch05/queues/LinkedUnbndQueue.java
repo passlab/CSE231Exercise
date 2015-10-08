@@ -58,7 +58,19 @@ public class LinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
   }
 
     public String toString() {
-        return null;
+        LLNode<T> cursor = front;
+        String outs = "";
+        int numElements = 0;
+        
+        while (cursor != null) {
+            numElements ++;
+            outs += cursor.getInfo().toString() + "\n";
+            cursor = cursor.getLink();
+        }
+        
+        outs = numElements + ":\n" + outs;
+        
+        return outs;
     }
 
     /* test the toString method */
@@ -66,7 +78,6 @@ public class LinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
         LinkedUnbndQueue<String> stringQueue = new LinkedUnbndQueue<String>();
         stringQueue.enqueue("A");
         stringQueue.enqueue("B");
-
         stringQueue.enqueue("C");
 
         System.out.println(stringQueue.toString());
