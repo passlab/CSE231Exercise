@@ -16,7 +16,7 @@ public class ArrayUnsortedList<T> implements ListInterface<T>
 {
   protected final int DEFCAP = 100; // default capacity
   protected int origCap;            // original capacity
-  protected T[] list;               // array to hold this list’s elements
+  protected T[] list;               // array to hold this listï¿½s elements
   protected int numElements = 0;    // number of elements in this list
   protected int currentPos;         // current position for iteration
 

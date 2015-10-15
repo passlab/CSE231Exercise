@@ -17,5 +17,6 @@ public class UseStack2
     myStack2.push("third");
     myStack2.push("fourth");
     myStack2.printReversed();
+    myStack2.printReversed_nonrecursive();
   }
 }

@@ -22,4 +22,9 @@ public class LinkedStack2<T> extends LinkedStack<T>
   {
     revPrint(top);
   }
+
+  /* use stack to implement non-recursive reverse print */
+  public void printReversed_nonrecursive() {
+
+  }
 }

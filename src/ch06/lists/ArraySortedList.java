@@ -68,4 +68,41 @@ public class ArraySortedList<T> extends ArrayUnsortedList<T>
     }
     return found;
   }
+  void merge (ArraySortedList<T> list) {
+      //this = this + list;
+      
+      /* for each element in the list, add to the this list.
+      */
+      list.reset();
+      for (int i=0; i< list.size(); i++) {
+         T element = list.getNext();
+         this.add(element);
+      }
+  }
+  
+   /* test the toString method */
+  public static void main(String[] args) {
+      ArraySortedList<String> stringList1 = new ArraySortedList<String>(10);
+      ArraySortedList<String> stringList2 = new ArraySortedList<String>(10);
+      
+      stringList1.add("Hello");
+      stringList2.add("World");
+
+      stringList1.merge(stringList2);
+      
+      System.out.println(stringList1);
+  }
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
