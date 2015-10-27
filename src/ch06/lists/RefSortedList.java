@@ -66,4 +66,32 @@ public class RefSortedList<T extends Comparable<T>>
     }
     numElements++;
   }
+  
+  /* class exercise: to make it an improved linear search */
+  protected void find(T target)
+    // Searches list for an occurence of an element e such that
+    // e.equals(target). If successful, sets instance variables
+    // found to true, location to node containing e, and previous
+    // to the node that links to location. If not successful, sets
+    // found to false.
+    {
+        location = list;
+        found = false;
+        
+        while (location != null)
+        {
+            int compareResult = location.getInfo().compareTo(target);
+            if (compareResult == 0)  // if they match
+            {
+                found = true;
+                return;
+            } if (compareResult > 0) {
+                return;
+            } else
+            {
+                previous = location;
+                location = location.getLink();
+            }
+        }
+    }
 }

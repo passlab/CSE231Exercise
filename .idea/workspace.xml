@@ -64,101 +64,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArrayIndexedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayIndexedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="6" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1665">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayUnsortedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayUnsortedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="17" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="2475">
-              <folding>
-                <element signature="e#0#4367#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArraySortedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArraySortedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="0" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0" vertical-offset="921" max-vertical-offset="1710">
-              <folding>
-                <element signature="e#0#2639#0" expanded="true" />
-                <element signature="e#2372#2380#0" expanded="true" />
-                <element signature="e#2449#2457#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CircularLinkedUnbndQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="4" selection-start="2054" selection-end="2387" vertical-scroll-proportion="0.0" vertical-offset="1031" max-vertical-offset="1470">
-              <folding>
-                <element signature="e#0#2391#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseStrings.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/ReverseStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedStack2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="347" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UseStack3.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/UseStack3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedStack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UseStack2.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UseStack2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.17084283" vertical-offset="0" max-vertical-offset="439">
+            <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedStack3.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack3.java">
+      <file leaf-file-name="RefSortedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch06/lists/RefSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
+            <state line="16" column="26" selection-start="607" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1545">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargeIntCalculator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2430">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargeIntApp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargeInt.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/largeInts/LargeInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="4680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CRefUnsortedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/circular/CRefUnsortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="2520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecializedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1815">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecializedListInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedListInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayRefSortedStringList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025">
+              <folding>
+                <element signature="e#0#3421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircularLinkedUnbndQueue.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="20" selection-start="2042" selection-end="2042" vertical-scroll-proportion="1.3688213" vertical-offset="0" max-vertical-offset="1410">
               <folding />
             </state>
           </provider>
@@ -174,10 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$USER_HOME$/CSE231Project/src/secs/cse231/project/util/DLLNode.java" />
-        <option value="$PROJECT_DIR$/src/ch02/Test034.java" />
-        <option value="$PROJECT_DIR$/src/ch02/trivia/GetTriviaGame.java" />
-        <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaConsole.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaGame.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaGameGUI.java" />
         <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaGUI.java" />
@@ -225,6 +213,10 @@
         <option value="$PROJECT_DIR$/src/ch06/lists/ArraySortedList.java" />
         <option value="$PROJECT_DIR$/src/ch04/UseStack2.java" />
         <option value="$PROJECT_DIR$/src/ch04/LinkedStack2.java" />
+        <option value="$PROJECT_DIR$/src/ch07/LargeIntCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ch07/LargeIntApp.java" />
+        <option value="$PROJECT_DIR$/src/ch07/circular/CRefUnsortedList.java" />
+        <option value="$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java" />
       </list>
     </option>
   </component>
@@ -309,7 +301,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch06" />
+              <option name="myItemId" value="ch07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,11 +319,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch06" />
+              <option name="myItemId" value="ch07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lists" />
+              <option name="myItemId" value="largeInts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="circular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="byteLists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,78 +447,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stacks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -468,6 +468,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -559,14 +562,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -578,6 +573,14 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -644,6 +647,19 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -677,19 +693,6 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="5">
@@ -741,7 +744,7 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="958" extended-state="6" />
+    <frame x="0" y="22" width="1680" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -755,15 +758,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41666666" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25946277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26800978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17857143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4154762" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -789,9 +792,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3797314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15240328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -815,119 +818,48 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/QueueOverflowException.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/QueueUnderflowException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/SyncArrayBndQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/UnboundedQueueInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025">
           <folding>
-            <element signature="e#0#553#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/palindromes/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="0" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/palindromes/PalindromeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#0#3421#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="11" selection-start="0" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="0" column="11" selection-start="0" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/concurrency/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/simulation/SimulationApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="20" column="13" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch04/BlobApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="14" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="780">
-          <folding>
-            <element signature="e#0#1719#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="36" column="14" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="780" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/ArrayUnbndQueue.java">
@@ -974,238 +906,212 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/UseLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="0" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
+        <state line="0" column="8" selection-start="0" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/UseFigs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/SongsApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
-          <folding>
-            <element signature="e#0#2261#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="7" column="0" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/PokerApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/GolfApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="705">
-          <folding />
-        </state>
+        <state line="11" column="13" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="705" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/FigureGeometry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="2" column="17" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/storing/GetSerSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/storing/GetSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/storing/SaveSerSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/storing/SaveSong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/storing/SerSongsApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1455">
-          <folding />
-        </state>
+        <state line="12" column="13" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1455" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/serLists/SArrayIndexedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
-          <folding>
-            <element signature="e#0#3617#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/serLists/SerSongList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="14" column="13" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/serLists/SIndexedListInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <folding>
-            <element signature="e#0#1705#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="10" column="17" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/serLists/SList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2250">
-          <folding>
-            <element signature="e#0#4682#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="22" column="13" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2250" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/serLists/SListInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding>
-            <element signature="e#0#2227#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="19" column="17" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/lists/RefUnsortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190">
+        <state line="14" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/lists/IndexedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="15" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayIndexedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="6" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayUnsortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="17" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="2475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArraySortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="0" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0" vertical-offset="921" max-vertical-offset="1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/ReverseStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="347" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/lists/RefSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+        <state line="16" column="26" selection-start="607" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/lists/IndexedListInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+        <state line="8" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedListInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="33" selection-start="15" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+        <state line="15" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ListInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/circular/CRefUnsortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+        <state line="14" column="13" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="2505">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayIndexedList.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/largeInts/LargeInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="6" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1665">
+        <state line="10" column="13" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4605">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArrayUnsortedList.java">
+    <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="17" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="2475">
+        <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025">
           <folding>
-            <element signature="e#0#4367#0" expanded="true" />
+            <element signature="e#0#3421#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/lists/ArraySortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="0" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0" vertical-offset="921" max-vertical-offset="1710">
-          <folding>
-            <element signature="e#0#2639#0" expanded="true" />
-            <element signature="e#2372#2380#0" expanded="true" />
-            <element signature="e#2449#2457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch03/ReverseStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="4" selection-start="2054" selection-end="2387" vertical-scroll-proportion="0.0" vertical-offset="1031" max-vertical-offset="1470">
-          <folding>
-            <element signature="e#0#2391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="347" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.17084283" vertical-offset="0" max-vertical-offset="439">
+        <state line="76" column="20" selection-start="2042" selection-end="2042" vertical-scroll-proportion="1.3688213" vertical-offset="0" max-vertical-offset="1410">
           <folding />
         </state>
       </provider>
