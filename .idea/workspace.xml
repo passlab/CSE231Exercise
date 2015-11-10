@@ -64,73 +64,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LargeIntCalculator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2430">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CircularLinkedUnbndQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="20" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="1470">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITDBinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch08/ITDBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="2505">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GolfApp2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch08/GolfApp2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrequencyList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch08/FrequencyList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1515">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordFreq.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch08/wordFreqs/WordFreq.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.26615968" vertical-offset="2430" max-vertical-offset="4365">
+            <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="4365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LLNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/support/LLNode.java">
+      <file leaf-file-name="UseGraph.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/UseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="750">
+            <state line="17" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="4500">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseHeap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/UseHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/Heap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2280">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriQOverflowException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQOverflowException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriQueueInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQueueInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="17" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriQUnderflowException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQUnderflowException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeightedGraph.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="13" selection-start="697" selection-end="697" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="2070">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeightedGraphInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraphInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="17" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
               <folding />
             </state>
           </provider>
@@ -140,15 +151,6 @@
         <entry file="file://$PROJECT_DIR$/src/support/BSTNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTInterface.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch08/trees/BSTInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -164,8 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java" />
-        <option value="$PROJECT_DIR$/src/ch04/Factorial2.java" />
         <option value="$PROJECT_DIR$/src/ch04/Grid.java" />
         <option value="$PROJECT_DIR$/src/ch04/Kids.java" />
         <option value="$PROJECT_DIR$/src/ch04/LinkedStack3.java" />
@@ -215,6 +215,8 @@
         <option value="$PROJECT_DIR$/src/ch08/GolfApp2.java" />
         <option value="$PROJECT_DIR$/src/ch08/FrequencyList.java" />
         <option value="$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/ch09/UseHeap.java" />
+        <option value="$PROJECT_DIR$/src/ch09/UseGraph.java" />
       </list>
     </option>
   </component>
@@ -300,7 +302,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch08" />
+              <option name="myItemId" value="ch09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,11 +320,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch08" />
+              <option name="myItemId" value="ch09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="trees" />
+              <option name="myItemId" value="priorityQueues" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE231Exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graphs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -710,52 +734,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/ArrayUnbndQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1290" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/ArrayBndQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="1" selection-start="2215" selection-end="2918" vertical-scroll-proportion="0.0" vertical-offset="963" max-vertical-offset="1545" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch05/queues/LinkedUnbndQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="67" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1335" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/support/SerSong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/support/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding>
-            <element signature="e#0#935#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/UseLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="0" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/UseFigs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch06/SongsApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/PokerApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810" />
@@ -986,7 +964,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.26615968" vertical-offset="2430" max-vertical-offset="4365">
+        <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="4365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/UseHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQOverflowException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQueueInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQUnderflowException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/UseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="4500">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraphInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="697" selection-end="697" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
