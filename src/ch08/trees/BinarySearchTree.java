@@ -48,6 +48,27 @@ public class BinarySearchTree<T extends Comparable<T>>
   {
     return recSize(root);
   }
+  
+  private int leafCount(BSTNode<T> tree){
+      if (tree == null) return 0;
+      if (tree.getLeft() == null && tree.getRight() == null) return 1;
+      return leafCount(tree.getLeft()) + leafCount(tree.getRight());
+  }
+  
+  public int leafCount() {
+      return leafCount(root);
+  }
+  
+  boolean similarTrees(BSTNode<T> tree1, BSTNode<T> tree2) {
+      if (tree1 == null && tree2 == null) return true;
+      if (tree1 == null && tree2 != null) return false;
+      if (tree1 != null && tree2 == null) return false;
+      
+      boolean leftSimilarOrNot = similarTrees(tree1.getLeft(), tree2.getLeft());
+      boolean rightSimilarOrNot = similarTrees(tree1.getRight(), tree2.getRight());
+      
+      return leftSimilarOrNot && rightSimilarOrNot;
+  }
 
   public int size2()
   // Returns the number of elements in this BST.

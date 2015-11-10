@@ -76,7 +76,7 @@
       <file leaf-file-name="CircularLinkedUnbndQueue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="20" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1410">
+            <state line="76" column="20" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
@@ -86,9 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/ch08/ITDBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="2505">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,7 +94,7 @@
       <file leaf-file-name="GolfApp2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch08/GolfApp2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="795">
+            <state line="11" column="13" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -105,7 +103,7 @@
       <file leaf-file-name="FrequencyList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch08/FrequencyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1470">
+            <state line="14" column="13" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1515">
               <folding />
             </state>
           </provider>
@@ -114,7 +112,7 @@
       <file leaf-file-name="WordFreq.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch08/wordFreqs/WordFreq.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+            <state line="10" column="13" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -123,7 +121,7 @@
       <file leaf-file-name="BinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="402" selection-end="402" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="4050">
+            <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.26615968" vertical-offset="2430" max-vertical-offset="4365">
               <folding />
             </state>
           </provider>
@@ -132,7 +130,7 @@
       <file leaf-file-name="LLNode.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/support/LLNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="8" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -141,10 +139,8 @@
       <file leaf-file-name="BSTNode.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/support/BSTNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <folding>
-                <element signature="e#0#1309#0" expanded="true" />
-              </folding>
+            <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,7 +148,7 @@
       <file leaf-file-name="BSTInterface.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch08/trees/BSTInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+            <state line="15" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -168,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ch02/trivia/TriviaQuestion.java" />
         <option value="$PROJECT_DIR$/src/ch02/stringLogs/LinkedStringLog.java" />
         <option value="$PROJECT_DIR$/src/ch04/Factorial2.java" />
         <option value="$PROJECT_DIR$/src/ch04/Grid.java" />
@@ -219,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/ch08/ITDBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/ch08/GolfApp2.java" />
         <option value="$PROJECT_DIR$/src/ch08/FrequencyList.java" />
+        <option value="$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -253,6 +249,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -345,7 +342,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -458,6 +454,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -469,14 +473,6 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -543,19 +539,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -589,6 +572,19 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="5">
@@ -640,7 +636,7 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="958" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="958" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,15 +653,15 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26800978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27106228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17857143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4154762" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -688,9 +684,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3797314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15240328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15240328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -716,28 +712,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/ArrayUnbndQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1290">
-          <folding>
-            <element signature="e#0#2819#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="15" column="13" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/ArrayBndQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="1" selection-start="2215" selection-end="2918" vertical-scroll-proportion="0.0" vertical-offset="963" max-vertical-offset="1545">
-          <folding>
-            <element signature="e#0#2920#0" expanded="false" />
-            <element signature="e#2748#2756#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="73" column="1" selection-start="2215" selection-end="2918" vertical-scroll-proportion="0.0" vertical-offset="963" max-vertical-offset="1545" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/LinkedUnbndQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="67" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1335">
-          <folding />
-        </state>
+        <state line="77" column="67" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1335" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/support/SerSong.java">
@@ -838,9 +823,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/lists/RefUnsortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190">
-          <folding />
-        </state>
+        <state line="14" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/lists/IndexedListInterface.java">
@@ -890,9 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch03/stacks/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="11" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch04/LinkedStack2.java">
@@ -902,51 +883,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch04/UseStack2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
+        <state line="9" column="22" selection-start="312" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch06/lists/RefSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="607" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
-          <folding />
-        </state>
+        <state line="16" column="26" selection-start="607" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
-          <folding />
-        </state>
+        <state line="8" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/byteLists/SpecializedListInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="15" column="17" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/circular/CRefUnsortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="2505">
-          <folding />
-        </state>
+        <state line="14" column="13" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="2505" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/largeInts/LargeInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4605">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4605" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntCalculator.java">
@@ -958,11 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025">
-          <folding>
-            <element signature="e#0#3421#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
@@ -975,9 +938,7 @@
     <entry file="file://$PROJECT_DIR$/src/ch08/ITDBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="2505">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,16 +979,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/support/BSTNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <folding>
-            <element signature="e#0#1309#0" expanded="true" />
-          </folding>
+        <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="402" selection-end="402" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="4050">
+        <state line="182" column="25" selection-start="5648" selection-end="5648" vertical-scroll-proportion="0.26615968" vertical-offset="2430" max-vertical-offset="4365">
           <folding />
         </state>
       </provider>
