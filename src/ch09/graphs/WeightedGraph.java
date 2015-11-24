@@ -49,11 +49,13 @@ public class WeightedGraph<T> implements WeightedGraphInterface<T>
   public boolean isEmpty()
   // Returns true if this graph is empty; otherwise, returns false.
   {
+      return false;
   }
 
   public boolean isFull()
   // Returns true if this graph is full; otherwise, returns false.
   {
+      return false;
   }
 
   public void addVertex(T vertex)
@@ -75,6 +77,7 @@ public class WeightedGraph<T> implements WeightedGraphInterface<T>
   public boolean hasVertex(T vertex)
   // Returns true if this graph contains vertex; otherwise, returns false.
   {
+      return false;
   }
   
   private int indexIs(T vertex)
@@ -99,7 +102,7 @@ public class WeightedGraph<T> implements WeightedGraphInterface<T>
 
   public int weightIs(T fromVertex, T toVertex)
   // If edge from fromVertex to toVertex exists, returns the weight of edge;
-  // otherwise, returns a special “null-edge” value.
+  // otherwise, returns a special ï¿½null-edgeï¿½ value.
   {
     int row;
     int column;
@@ -135,10 +138,12 @@ public class WeightedGraph<T> implements WeightedGraphInterface<T>
   public boolean isMarked(T vertex)
   // Returns true if vertex is marked; otherwise, returns false.
   {
+      return false;
   }
   
   public T getUnmarked()
   // Returns an unmarked vertex if any exist; otherwise, returns null.
   {
+      return null;
   }
 }

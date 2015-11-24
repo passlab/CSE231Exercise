@@ -132,7 +132,16 @@
       <file leaf-file-name="WeightedGraph.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="697" selection-end="697" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="2070">
+            <state line="146" column="18" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.8669202" vertical-offset="1326" max-vertical-offset="2145">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayRefSortedStringList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1965">
               <folding />
             </state>
           </provider>
@@ -142,15 +151,6 @@
         <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraphInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="17" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/support/BSTNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -166,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ch04/Grid.java" />
         <option value="$PROJECT_DIR$/src/ch04/Kids.java" />
         <option value="$PROJECT_DIR$/src/ch04/LinkedStack3.java" />
         <option value="$PROJECT_DIR$/src/ch04/Towers.java" />
@@ -217,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/ch08/trees/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/ch09/UseHeap.java" />
         <option value="$PROJECT_DIR$/src/ch09/UseGraph.java" />
+        <option value="$PROJECT_DIR$/src/ch09/graphs/WeightedGraph.java" />
       </list>
     </option>
   </component>
@@ -301,10 +301,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -321,10 +317,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ch09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="priorityQueues" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,20 +339,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="graphs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSE231Exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -891,7 +869,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855" />
+        <state line="9" column="13" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch07/LargeIntCalculator.java">
@@ -899,11 +879,6 @@
         <state line="12" column="13" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2370">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2025" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch05/queues/CircularLinkedUnbndQueue.java">
@@ -997,13 +972,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQUnderflowException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch09/UseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="4500">
@@ -1020,9 +988,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch07/array/ArrayRefSortedStringList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="21" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch09/priorityQueues/PriQUnderflowException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch09/graphs/WeightedGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="697" selection-end="697" vertical-scroll-proportion="0.11406844" vertical-offset="0" max-vertical-offset="2070">
+        <state line="146" column="18" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.8669202" vertical-offset="1326" max-vertical-offset="2145">
           <folding />
         </state>
       </provider>
