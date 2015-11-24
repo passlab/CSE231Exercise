@@ -74,7 +74,18 @@ public class ArrayRefSortedStringList implements ListInterface<String> {
     }
 
     private void find(String element) {
-
+        found = false;
+        int current = list;
+        previous = NUL;
+        while (!found && current != NUL ) {
+            if(nodes[current].info.equalsIgnoreCase(element)) {
+                found = true;
+                location = current;
+                return;
+            }
+            previous = current;
+            current = nodes[current].next;
+        }
     }
 
     public boolean remove(String element)
@@ -97,33 +108,42 @@ public class ArrayRefSortedStringList implements ListInterface<String> {
 
     @Override
     public boolean contains(String element) {
-        return false;
+        find(element);
+        return found;
     }
 
     @Override
     public String get(String element) {
+        find(element);
+        if (found) return nodes[location].info;
+
         return null;
     }
 
     @Override
     public void reset() {
-
+        currentPos = list;
     }
 
     @Override
     public String getNext() {
-        return null;
+        int current = currentPos;
+        currentPos = nodes[current].next;
+        return nodes[current].info;
     }
 
     @Override
     public int size() {
-        return 0;
+        return numElements;
     }
 
+    /* we cannot do enlarge in this implementation */
     public void add(String element) {
+        if (isFull()) return;
 
-
+        int newNode = getNode();
+        nodes[newNode].info = element;
+        nodes[newNode].next = list;
+        list = newNode;
     }
-
-
 }
