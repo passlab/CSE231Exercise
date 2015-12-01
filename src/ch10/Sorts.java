@@ -4,6 +4,8 @@
 // Test harness used to run sorting algorithms.
 //----------------------------------------------------------------------------
 
+import ch10.SmartQuickSortPivot;
+
 import java.util.*;
 import java.text.DecimalFormat;
 
@@ -299,8 +301,97 @@ public class Sorts
     }
   }
 
+  ///////////////////////////////////////////////////////////////
+  //
+  // Smart Quick Sort algorithms for Assignment 6
 
-  /////////////////////////////////////////////////////////////////
+    /**
+     * split4SmartQuickSort splits the array (from first to last) into two subarrays, left and right, using the
+     * provided splitVal. It needs to calculate on the fly the average of all the elements of the left subarray
+     * and average of all elements of the right subarray, and store the two averages in the @pivot object.
+     * The following implementation is only copy of the code from
+     * the split function (from line 247) and you should enhance the function to implement what we need to calculate the averages
+     * as the pivot for the left and right subarray.
+     *
+     * Please be noted that splitVal may not even exist in the array since we choose the average.
+     * But this should not impact the correctness algorithm of splitting and sorting.
+     * @param first
+     * @param last
+     * @param splitVal
+     * @param leftRightAverages
+     * @return
+     */
+    static int split4SmartQuickSort(int first, int last, int splitVal, SmartQuickSortPivot leftRightAverages)
+    {
+        int saveF = first;
+        boolean onCorrectSide;
+
+        first++;
+        do
+        {
+            onCorrectSide = true;
+            while (onCorrectSide)             // move first toward last
+                if (values[first] > splitVal)
+                    onCorrectSide = false;
+                else
+                {
+                    first++;
+                    onCorrectSide = (first <= last);
+                }
+
+            onCorrectSide = (first <= last);
+            while (onCorrectSide)             // move last toward first
+                if (values[last] <= splitVal)
+                    onCorrectSide = false;
+                else
+                {
+                    last--;
+                    onCorrectSide = (first <= last);
+                }
+
+            if (first < last)
+            {
+                swap(first, last);
+                first++;
+                last--;
+            }
+        } while (first <= last);
+
+        swap(saveF, last);
+        return last;
+    }
+
+    /**
+     * Smart quick sort allows the use of a better splitting value (the pivot value) when to split the array
+     * into two. In this algorithm, we will use the average of the array (subarray) of all elements as the pivot.
+     *
+     * Each call to split (split4SmartQuickSort method), the splitValue will be passed and also the split4SmartQuickSort
+     * will return the averages of left subarray and right subarray. The two averages, each will be used for the
+     * following calls to smartQuickSort.
+     *
+     * @param first the first element
+     * @param last the last element
+     * @param splitVal the pivot value for splitting the array
+     */
+    static void smartQuickSort(int first, int last, int splitVal)
+    {
+        if (first < last)
+        {
+            int splitPoint;
+            SmartQuickSortPivot leftRightAverages = new SmartQuickSortPivot();
+
+            splitPoint = split4SmartQuickSort(first, last, splitVal, leftRightAverages);
+            // values[first]..values[splitPoint - 1] <= splitVal
+            // values[splitPoint] does not necessarily have the splitVal as the splitVal may not even exist in the array
+            // values[splitPoint+1]..values[last] > splitVal
+
+            smartQuickSort(first, splitPoint - 1, leftRightAverages.left);
+            smartQuickSort(splitPoint + 1, last, leftRightAverages.right);
+        }
+    }
+
+
+    /////////////////////////////////////////////////////////////////
   //
   //  Heap Sort
 
@@ -394,6 +485,9 @@ public class Sorts
     // insertionSort();
     // mergeSort(0, SIZE - 1);
     // quickSort(0, SIZE - 1);
+
+    /** you can either compute the average first as the first pivot or simplify choose the first one as the pivot */
+    smartQuickSort(0, SIZE-1, values[0]);
     // heapSort();
 
     printValues();
