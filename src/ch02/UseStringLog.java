@@ -15,7 +15,7 @@ public class UseStringLog
     //sample = new ArrayStringLog("Example Use");
     sample = new LinkedStringLog("Example Use");
     sample.insert("Elvis");
-    sample.insert("Elvis");
+    sample.uniqueInsert("Elvis");
     sample.insert("Elvis");
 
     sample.insert("King Louis XII");

@@ -73,7 +73,11 @@ public class CircularLinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
       return false;
   }
 
-    public String toString() {
+  public boolean isFull() {
+      return false;
+  }
+
+  public String toString() {
         return null;
     }
 

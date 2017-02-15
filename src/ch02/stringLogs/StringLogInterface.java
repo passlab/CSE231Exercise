@@ -26,7 +26,13 @@ public interface StringLogInterface
   // Returns true if element is in this StringLog,
   // otherwise returns false.
   // Ignores case differences when doing string comparison.
-  
+
+  /* insert only if it does not exist in the log
+  * return false if it is already in the list
+  * true if it is inserted
+  * */
+  boolean uniqueInsert(String element);
+
   void clear();
   // Makes this StringLog empty.
 

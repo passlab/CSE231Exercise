@@ -94,7 +94,17 @@ public class ArrayStringLog implements StringLogInterface
   }
   
     public int howMany(String element){
-        return 0;
+        int location = 0;
+        int counter = 0;
+        while (location <= lastIndex)
+        {
+            if (element.equalsIgnoreCase(log[location]))
+                // if they matc
+                counter++;
+
+            location++;
+        }
+        return counter;
         
     }
 
@@ -163,4 +173,9 @@ public class ArrayStringLog implements StringLogInterface
       
     return logString;
   }
+
+    public boolean uniqueInsert(String element) {
+        return false;
+    }
+
 }

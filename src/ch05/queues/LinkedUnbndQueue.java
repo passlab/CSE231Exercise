@@ -73,14 +73,39 @@ public class LinkedUnbndQueue<T> implements UnboundedQueueInterface<T>
         return outs;
     }
 
+    /* use enque and dequeu opertion to do toString2 */
+    public String toString2() {
+        String outs = "";
+        /* empty queue */
+        if (front == null) return outs;
+
+        LLNode<T> originalRear = rear;
+
+        /* the while loop terminates at the node immediately before the original rear node */
+        while (front != originalRear) {
+            T ele = dequeue();
+            outs += ele.toString() + "\n";
+            //System.out.println(ele);
+            enqueue(ele);
+        }
+
+        /* deqeue and enqueue the original rear node to restore the queue back to the original state */
+        T ele = dequeue();
+        //System.out.println(ele);
+        outs += ele.toString() + "\n";
+        enqueue(ele);
+        return outs;
+
+    }
+
     /* test the toString method */
     public static void main(String[] args) {
         LinkedUnbndQueue<String> stringQueue = new LinkedUnbndQueue<String>();
-        stringQueue.enqueue("A");
-        stringQueue.enqueue("B");
-        stringQueue.enqueue("C");
+        //stringQueue.enqueue("A");
+        //stringQueue.enqueue("B");
+        //stringQueue.enqueue("C");
 
-        System.out.println(stringQueue.toString());
+        System.out.println(stringQueue.toString2());
 
     }
 }
